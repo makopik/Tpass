@@ -1,0 +1,194 @@
+body{
+    background: #E5E5E5;
+}
+
+#footer{
+    position: absolute;
+    width: 100%;
+    height: 720px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    
+    background: #F5F6F7;
+    border-radius: 0px;
+}
+.munlg{
+    position: absolute;
+    height: 50px;
+    left: 7.99%;
+    right: 7.99%;
+    top: 30px;
+
+
+}
+
+
+nav{
+    position: absolute;
+    height: 50px;
+    left: 61.57%;
+    right: 4.55%;
+    top: 12px;
+    
+    text-align: center;
+  
+  }
+nav a{
+    
+    height: 17px;
+    left: 26.8%;
+    right: 26.8%;
+    top: 16px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+
+    
+    
+    color: #0F2336;
+}
+
+.batt{
+    
+    background: #0F2336;
+    border:14px solid #0F2336;
+    box-sizing: border-box;
+    border-radius: 8px;
+    color: white;
+
+}
+
+.desc{
+    position: absolute;
+    height: 475px;
+    left: 4.55%;
+    right: 49.44%;
+    top: 100px;
+}
+
+.text0{
+    position: absolute;
+    height: auto;
+    left: 0%;
+    
+    top: 1px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 35px;
+    /* identical to box height, or 138% */
+    
+    letter-spacing: 1.11px;
+
+}
+.t{position: absolute;
+    height: 76px;
+    left: 71%;
+    right: 8.52%;
+    top: 162px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 55px;
+    line-height: 76px;
+    /* identical to box height, or 138% */
+    
+    letter-spacing: 1.11px;
+    
+    color: #F3AF47;}
+
+    .button{
+        position: absolute;
+        height: 60px;
+        left: 0%;
+        right: 62.64%;
+        top: 375px;
+
+
+
+
+    }
+    .button a{
+        position: absolute;
+        height: 60px;
+        left: 21.1%;
+        right: 4.36%;
+        top: 1px;
+        font-family: Roboto;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 50px;
+        background: #00CCCC;
+        border: 1px solid #00CCCC;
+        box-sizing: border-box;
+        box-shadow: 0px 3px 18px rgb(0 201 201 / 55%);
+        border-radius: 14px;
+        padding-left: 19px;
+        color: #0F2336;
+        text-decoration: none;
+
+
+    }  
+    .button svg { 
+        position: absolute;
+        left: 73%;
+        right: 16.83%;
+        top: 26.67%;
+        bottom: 36%;
+}
+
+ .ob    {
+    position: absolute;
+height: 720px;
+left: 34.46%;
+right: -2.48%;
+top: 0px;
+
+border-radius: 0px;
+}
+
+
+.m{
+    position: absolute;
+    height: 537px;
+    left: 18.31%;
+    right: 11.24%;
+    top: 183px;
+}
+.d{
+    position: absolute;
+    left: 7.31%;
+    right: 11.24%;
+    top: 21.73%;
+  
+
+}
+
+#ps{
+    position: absolute;
+height: 409px;
+left: 0%;
+right: 0%;
+top: 720px;
+
+background: #FFFFFF;
+border-radius: 0px;
+}
+
+.opis{
+    position: absolute;
+    height: 269px;
+    left: 10.76%;
+    right: 10.69%;
+    top: 100px;
+
+}
+svg 
