@@ -628,9 +628,11 @@ text-align: center;
 color: #0F2336;
 }
 
-.for{
+
+
+input{
     height: 55px;
-width: 394px;
+width: 374px;
 
 margin-top: -0.12px;
 
@@ -638,13 +640,6 @@ background: #F0F0F2;
 border: 1px solid #F0F0F2;
 box-sizing: border-box;
 border-radius: 6px;
-}
-
-.mobil{
-    width: 169px;
-height: 22px;
-margin-left: 114px;
-margin-top: 16.88px;
 
 font-family: Roboto;
 font-style: normal;
@@ -655,6 +650,7 @@ text-align: center;
 
 color: rgba(0, 0, 0, 0.35);
 }
+
 .button2{
     height: 55px;
 margin-left: 72.63%;
