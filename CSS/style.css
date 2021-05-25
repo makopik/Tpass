@@ -62,8 +62,8 @@ nav a{
 .desc{
     position: absolute;
     height: 475px;
-    left: 4.55%;
-    right: 49.44%;
+    left: 119px;
+    right: 656px;
     top: 100px;
 }
 
@@ -144,12 +144,13 @@ nav a{
 
  .ob    {
     position: absolute;
-height: 720px;
-left: 33.46%;
-right: 18.52%;
-top: 0px;
-
+    height: 720px;
+    left: 547px;
+    right: 100px;
+    top: 0px;
 }
+
+
 
 
 .m{
@@ -175,11 +176,10 @@ top: 0px;
 }
 
 .opis{
-
-    
+    margin-left: 155px;
+    margin-right: 154px;
     height: 269px;
 
-    width: 100%;
     margin-top: 100px;
 }
 
@@ -391,8 +391,8 @@ top: 115px;
 .con{
 
     height: 627px;
-    margin-left: 4.55%;
-    margin-right: 53.72%;
+    margin-left: 170px;
+    margin-right: 765px;
     top: -40px;
     }
 
@@ -610,7 +610,9 @@ color: #576D81;
 
    .dom{
     margin-left: 225px;
-   }
+    
+    margin-right: 225px;
+}
 
 .enjou{
     height: 120px;
@@ -629,10 +631,9 @@ color: #0F2336;
 }
 
 
-
 input{
     height: 55px;
-width: 374px;
+width: 394px;
 
 margin-top: -0.12px;
 
@@ -653,7 +654,8 @@ color: rgba(0, 0, 0, 0.35);
 
 .button2{
     height: 55px;
-margin-left: 72.63%;
+    width: 156px;
+margin-left: 414px;
 margin-right: 0%;
 margin-top: -53px;
 background: #00CCCC;
@@ -677,7 +679,17 @@ border-radius: 14px;
     text-decoration: none;
     color: #0F2336; 
 }
+.AI{
+    margin-top: 20px;
+}
 
+a{
+    text-decoration: none;
+}
+
+.g{
+ padding-left: 24px;
+}
 
 #footer{
 
@@ -694,11 +706,15 @@ background: #0F2336;
     padding-top: 55.12px;
 }
 
+
+
+
+
 .textfoot{
     height: 112px;
     margin-left: 370px;
     margin-right: 0.08%;
-    margin-top: 30px;   
+    margin-top: -27px;   
 }
 .h6{
     height: 21px;
